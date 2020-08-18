@@ -1,6 +1,4 @@
-# flutix
-
-A new Flutter project.
+Sesuaikan google-service.json firebase di android/app
 
 ## Getting Started
 
