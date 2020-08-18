@@ -1,7 +1,8 @@
-## Isi google-service.json mu firebase di android/app
-![image](https://user-images.githubusercontent.com/51728970/90525839-e36c6880-e199-11ea-8865-0937f0a92591.png)
+## Isi firebase google-service.json mu di android/app
+![image](https://user-images.githubusercontent.com/51728970/90526112-2fb7a880-e19a-11ea-99a6-23027499c50d.png)
 
-## Isi google map api key mu
+
+## Isi google map api key mu di android/app/src
 ![image](https://user-images.githubusercontent.com/51728970/90525639-ab652580-e199-11ea-9696-c8ef317cb904.png)
 
 
