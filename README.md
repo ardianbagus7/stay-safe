@@ -1,4 +1,11 @@
-Sesuaikan google-service.json firebase di android/app
+## Isi google-service.json mu firebase di android/app
+![image](https://user-images.githubusercontent.com/51728970/90525839-e36c6880-e199-11ea-8865-0937f0a92591.png)
+
+## Isi google map api key mu
+![image](https://user-images.githubusercontent.com/51728970/90525639-ab652580-e199-11ea-9696-c8ef317cb904.png)
+
+
+
 
 ## Getting Started
 
