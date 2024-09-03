@@ -1,22 +1,25 @@
-## Isi firebase google-service.json mu di android/app
-![image](https://user-images.githubusercontent.com/51728970/90526112-2fb7a880-e19a-11ea-99a6-23027499c50d.png)
+# Stay Safe
 
+**Stay Safe** is a mobile application designed to help peddlers find safe locations to sell their goods while avoiding COVID-19 red zones. Additionally, the app enables buyers to easily locate peddlers and stay informed about nearby COVID-19 red zones, promoting safety for both sellers and buyers.
 
-## Isi google map api key mu di android/app/src
-![image](https://user-images.githubusercontent.com/51728970/90525639-ab652580-e199-11ea-9696-c8ef317cb904.png)
+## Tech Stack
 
+- **Flutter**: For developing a cross-platform mobile application with a responsive and intuitive interface.
+- **Google Maps**: For integrating location-based services and real-time map features.
+- **Firebase**: For backend services, including real-time data synchronization and user authentication.
 
+## Contributions
 
+Stay Safe was developed as part of my participation in the Indonesia Maju HackFest Hackathon 2020. My contributions included:
 
-## Getting Started
+- **UI/UX Design**: Designing user-friendly interfaces that prioritize safety and accessibility.
+- **Mobile Application Development**: Building the application using Flutter to ensure a seamless user experience across different devices.
 
-This project is a starting point for a Flutter application.
+## Achievements
 
-A few resources to get you started if this is your first Flutter project:
+Stay Safe has received the following recognition:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **1st Place** at the Indonesia Maju HackFest Hackathon 2020, organized by Flutter Indonesia in collaboration with Google Developers.
+- Featured on [Devpost](https://devpost.com/software/stay-safe-ql94kz) as a winning project.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/41345bc6-1424-442c-900c-8752fa0e3f09)
